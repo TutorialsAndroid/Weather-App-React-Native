@@ -22,7 +22,7 @@ A simple and user-friendly React Native weather application that fetches real-ti
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TutorialsAndroid/weather-app.git
+   git clone https://github.com/TutorialsAndroid/Weather-App-React-Native.git
    cd weather-app
    ```
 
