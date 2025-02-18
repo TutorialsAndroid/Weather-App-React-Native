@@ -59,4 +59,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the **MIT License**.
 
 ## 🌟 Show Some Love
-If you liked this project, give it a ⭐ on [GitHub](https://github.com/yourusername/weather-app)! 😊
+If you liked this project, give it a ⭐ on [GitHub](https://github.com/TutorialsAndroid/Weather-App-React-Native)! 😊
